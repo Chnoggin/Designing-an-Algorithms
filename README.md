@@ -1,2 +1,2 @@
-# Designing-an-Algorithms
-Designing an Algorithm for a boilerplate color switch.
+# p5.play-boilerplate
+Boiler plate for p5.play
